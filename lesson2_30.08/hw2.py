@@ -7,3 +7,4 @@ e=digit//10000%10
 print(a,b,c,d,e)
 
 
+
